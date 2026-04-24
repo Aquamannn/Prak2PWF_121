@@ -7,6 +7,8 @@ Dashboard :
 About :
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2e97b095-5638-4eb8-9840-224f7596dafe" />
 Database : 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33f312b8-e5d2-478e-af7e-5a93e071aef0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d0c96771-57dc-4b38-8a36-353db36fedce" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/77b8eab9-8885-4cc9-9aa4-7b588a5f94bf" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/41d70b3b-5cc4-46cc-b319-436de1b9212b" />
 
